@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Transform dates to weekday sum mapping with missing day interpolation",
+  "main": "src/solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
